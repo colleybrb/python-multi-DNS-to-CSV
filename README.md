@@ -1,4 +1,4 @@
-# python-multi-DNS-to-CSV
+# python-multi-DNS-to-dataframe
 This code is a simple dns lookup for a sheet of ip's.
 
 ### What it does
