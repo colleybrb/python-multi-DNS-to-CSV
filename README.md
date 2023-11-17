@@ -2,7 +2,7 @@
 This code is a simple dns lookup for a sheet of ip's.
 
 ### What it does
-* Loads "arp_lookup.csv"
+* Loads "arp_lookup.csv" (name was relative to what I was doing)
 * Conducst a host name lookup on each "IP."
 * Prints the host names
 * Sends output to excel "output.xlsx"
